@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "email": "johndoe@example.com",
+    "description": "John is a software engineer specializing in web development."
+  },
+  {
+    "name": "Jane Smith",
+    "title": "Data Scientist",
+    "email": "janesmith@example.com",
+    "description": "Jane is a data scientist with a focus on machine learning."
+  }
+]
